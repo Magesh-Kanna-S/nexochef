@@ -1,0 +1,8 @@
+{
+  "name": "NexoChef - AI Kitchen Assistant",
+  "description": "A health-focused smart kitchen app for personalized meal planning, health tracking, and recipe assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
